@@ -7,3 +7,6 @@ Validar entrada: Se o campo de texto estiver vazio, o programa exibirá um alert
 Visualizar a lista: Os nomes inseridos aparecerão em uma lista abaixo do campo de entrada.
 
 Sorteio aleatório: Ao clicar no botão "Sortear Amigo", um nome da lista será selecionado aleatoriamente e exibido na página.
+
+
+https://vercel.com/inaiane-m-barros-projects/jogo-do-numero-secreto

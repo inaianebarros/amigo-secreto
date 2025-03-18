@@ -32,9 +32,7 @@
             class="input-name"
             placeholder="Digite um nome"
           />
-          <button class="button-add" onclick="adicionarAmigo()">
-            Adicionar
-          </button>
+          <button class="button-add" onclick="addFriend()">Adicionar</button>
         </div>
 
         <ul
@@ -48,14 +46,21 @@
         <div class="button-container">
           <button
             class="button-draw"
-            onclick="sortearAmigo()"
+            onclick="sortFriend()"
             aria-label="Sortear amigo secreto"
+            id="draw-button"
           >
-            <img
-              src="assets/play_circle_outline.png"
-              alt="Ícone para sortear"
-            />
+            <img src="assets/start.png" alt="Ícone para sortear" />
             Sortear amigo
+          </button>
+          <button
+            class="button-draw"
+            onclick="reset()"
+            aria-label="Reiniciar sorteio"
+            id="reset-draw"
+          >
+            <img src="assets/refresh.png" alt="Ícone para sortear" />
+            Reiniciar
           </button>
         </div>
       </section>

@@ -9,6 +9,9 @@ Bem-vindo ao projeto **Amigo Secreto**! Este projeto tem como objetivo praticar 
   <a href="#-referências">Referências</a>
 </p>
 
+![image](https://github.com/user-attachments/assets/b3f84fa2-d2f6-4e6d-84a0-1bc5155d303b)
+
+
 Este é o **1º projeto** da Formação Iniciante em Programação da plataforma **Alura**, apresentado por **Guilherme Lima, Rafaella Ballerini e Monica Hillman**. O projeto consiste na criação de um sistema para realizar sorteios de amigo secreto de forma dinâmica e interativa.
 
 ## 🛠️ Tecnologias Utilizadas

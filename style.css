@@ -54,6 +54,10 @@ body {
     width: 100%;
 }
 
+.animated{
+    width: 750px;
+}
+
 /* Títulos */
 .main-title {
     font-size: 100px;
@@ -95,6 +99,7 @@ body {
     width: 300px;
     gap: 20px;
     justify-content: center;
+    white-space: nowrap;
 }
 
 /* Estilos de entrada de texto */
@@ -111,6 +116,7 @@ body {
 
 /* Estilos de botão */
 button {
+    padding: 15px;
     font-family: 'Fredoka', sans-serif;
     font-weight: 300;
     font-size: 16px;
@@ -130,6 +136,26 @@ button {
     background-color: #a1a1a1;
 }
 
+/* Botão de sortear título */
+.button-draw {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    padding: 10px 40px;
+    color: var(--color-white);
+    background-color: var(--color-button);
+    font-size: 24px;
+    font-weight: 400;
+}
+
+.button-draw img {
+    margin-right: 35px;
+}
+
+.button-draw:hover {
+    background-color: var(--color-button-hover);
+}
+
 /* Listas */
 ul {
     list-style-type: none;
@@ -147,21 +173,3 @@ ul {
     text-align: center;
 }
 
-/* Botão de sortear título */
-.button-draw {
-    display: flex;
-    align-items: center;
-    width: 100%;
-    padding: 10px 40px;
-    color: var(--color-white);
-    background-color: var(--color-button);
-    font-size: 16px;
-}
-
-.button-draw img {
-    margin-right: 40px;
-}
-
-.button-draw:hover {
-    background-color: var(--color-button-hover);
-}

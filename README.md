@@ -54,6 +54,10 @@ O design da aplicação foi baseado no protótipo criado no **Figma**. Você pod
 
 ---
 
+ ## Certificação 🥇
+
+<img width="500" height="500" alt="Adobe Express - file" src="https://github.com/user-attachments/assets/e03a025c-bd4f-46bc-b00d-7811e8d6cc4f" />
+
 📌 **Curtiu o projeto?** Não se esqueça de deixar uma ⭐ no repositório!
 
 
